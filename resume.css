@@ -1,0 +1,79 @@
+:root {
+    --primary-color: #48cb0b;
+    --secondary-color: #e69650;
+    --black-color: #1c1c1c;
+    --dark-color: #323131;
+    --white-color: #ececec;
+    --secondary-white-color: #bab5b5;
+}
+
+.resume-page {
+    width: 70%;
+    margin-left: 29%;
+    border: .5px solid var(--secondary-white-color);
+    border-radius: 10px;
+}
+
+.resume-container {
+    min-height: 100vh;
+    padding: 2em 1em;
+    padding-top: .5em;
+    border-radius: 10px;
+    background-color: var(--black-color);
+}
+
+
+.heading {
+    padding-top: 2em;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.personal-statement .statements{
+    padding: .5em;
+    padding-top: 1em;
+    color: var(--secondary-white-color);
+    line-height: 1.5;
+    border: 1px solid var(--dark-color);
+    border-radius: 10px;
+    margin: .5em 0;
+}
+
+.education-container {
+    padding-top: 2em;
+}
+
+.education-item {
+    border: 2px solid var(--dark-color);
+    border-radius: 10px;
+    padding: .5em;
+    padding-top: 2em;
+    margin: .5em 0;
+}
+
+.timeline {
+    color: var(--primary-color);
+    padding: 1em 0 .5em 0;
+}
+
+.course {
+    color: var(--secondary-white-color);
+}
+
+.experience-container {
+    padding-top: 2em;
+}
+
+.experience-item {
+    border: 2px solid var(--dark-color);
+    border-radius: 10px;
+    padding: .5em;
+    padding-top: 2em;
+    margin: .5em 0;
+    padding-top: 2em;
+}
+
+.achievement {
+    color: var(--secondary-white-color);
+}
+
