@@ -1,8 +1,8 @@
-# Fredrick-Portfolio-Website
+# Ian-Alex-Portfolio-Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Sqmagadi/Fredrick-Portfolio-Website)
-![GitHub stars](https://img.shields.io/github/stars/Sqmagadi/Fredrick-Portfolio-Website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Sqmagadi/Fredrick-Portfolio-Website?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sqmagadi/Ian-Alex-Portfolio-Website)
+![GitHub stars](https://img.shields.io/github/stars/Sqmagadi/Ian-Alex-Portfolio-Website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sqmagadi/Ian-Alex-Portfolio-Website?style=social)
 [![Linkedin Conect](https://img.shields.io/twitter/follow/paulsqmagadi?style=social)](https://twitter.com/intent/follow?screen_name=paulsqmagadi)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://www.youtube.com/channel/UCWHGlWQe2-NlpaIr3Qy95BQ)
 
