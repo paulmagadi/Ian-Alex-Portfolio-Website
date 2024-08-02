@@ -16,7 +16,7 @@ A responsive portfolio website for Fredrick, built using HTML, CSS, and JavaScri
 
 ### Mobile View
 
-![vCard Mobile Demo](moblie_view.png "Mobile View")
+![vCard Mobile Demo](mobile_view.png "Mobile View")
 
 ## Contact
 
