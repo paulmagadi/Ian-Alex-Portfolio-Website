@@ -6,7 +6,7 @@
 [![Linkedin Conect](https://img.shields.io/twitter/follow/paulsqmagadi?style=social)](https://twitter.com/intent/follow?screen_name=paulsqmagadi)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://www.youtube.com/channel/UCWHGlWQe2-NlpaIr3Qy95BQ)
 
-A responsive portfolio website for Fredrick, built using HTML, CSS, and JavaScript.
+A responsive portfolio website for Ian Alex, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
