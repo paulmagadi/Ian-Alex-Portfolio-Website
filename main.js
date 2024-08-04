@@ -16,17 +16,37 @@ contactsBtn.addEventListener('click', function() {
 })
 
 
-const navLinks = document.querySelector('.nav-links');
+const nav = document.querySelector('.nav-links');
+const navLinks = document.querySelectorAll('.nav-links a:not(:last-child)');
 const menuBtn = document.querySelector('.menu-button');
 
 menuBtn.addEventListener('click', function() {
-  navLinks.classList.toggle('active');
+  nav.classList.toggle('active');
 
-  if (navLinks.classList.contains('active')) {
+  if (nav.classList.contains('active')) {
     menuBtn.innerHTML = '<p><i class="fa-solid fa-x"></i></p>';
     } else {
       menuBtn.innerHTML = '<p><i class="fa-solid fa-bars"></i></p>';
     }
 })
+
+navLinks.forEach(link => {
+  link.addEventListener('click', function() {
+    nav.classList.toggle('active');
+      if (nav.classList.contains('active')) {
+        menuBtn.innerHTML = '<i class="fa-solid fa-x fa-lg"></i>';
+      } else {
+        menuBtn.innerHTML = '<i class="fa-solid fa-bars fa-lg"></i>';
+      }
+  });
+});
+
+
+
+
+
+
+
+
 
 
